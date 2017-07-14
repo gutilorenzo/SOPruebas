@@ -1,0 +1,17 @@
+/*
+ * hola.h
+ *
+ *  Created on: 13/7/2017
+ *      Author: utnso
+ */
+
+#ifndef HOLA_H_
+#define HOLA_H_
+
+class hola {
+public:
+	hola();
+	virtual ~hola();
+};
+
+#endif /* HOLA_H_ */

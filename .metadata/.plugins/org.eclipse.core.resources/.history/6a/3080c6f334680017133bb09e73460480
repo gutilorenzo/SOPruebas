@@ -1,0 +1,18 @@
+/*
+ * hola.cpp
+ *
+ *  Created on: 13/7/2017
+ *      Author: utnso
+ */
+
+#include "hola.h"
+
+hola::hola() {
+	// TODO Auto-generated constructor stub
+
+}
+
+hola::~hola() {
+	// TODO Auto-generated destructor stub
+}
+

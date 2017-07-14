@@ -1,0 +1,33 @@
+22:42:14 **** Build of configuration Debug for project PrimerosPasos ****
+make all 
+Building file: ../hola.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"hola.d" -MT"hola.d" -o "hola.o" "../hola.c"
+Finished building: ../hola.c
+ 
+Building target: PrimerosPasos
+Invoking: GCC C Linker
+gcc  -o "PrimerosPasos"  ./hola.o   
+Finished building target: PrimerosPasos
+ 
+22:42:36 **** Incremental Build of configuration Debug for project PrimerosPasos ****
+make all 
+make: No se hace nada para «all».
+22:43:28 **** Incremental Build of configuration Debug for project PrimerosPasos ****
+make all 
+Building file: ../hola.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"hola.d" -MT"hola.d" -o "hola.o" "../hola.c"
+Finished building: ../hola.c
+ 
+Building target: PrimerosPasos
+Invoking: GCC C Linker
+gcc  -o "PrimerosPasos"  ./hola.o   
+Finished building target: PrimerosPasos
+ 
+22:43:37 **** Incremental Build of configuration Debug for project PrimerosPasos ****
+make all 
+make: No se hace nada para «all».
+22:43:44 **** Incremental Build of configuration Debug for project PrimerosPasos ****
+make all 
+make: No se hace nada para «all».
