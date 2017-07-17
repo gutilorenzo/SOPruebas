@@ -1,0 +1,20 @@
+/*
+ * puntero.c
+ *
+ *  Created on: 17/7/2017
+ *      Author: utnso
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+int main(){
+	int* puntero = malloc(sizeof(int));
+
+	printf("Se guardo memoria en el espacio: ");
+
+	return 0;
+
+}

@@ -14,3 +14,6 @@ Invoking: Cross GCC Linker
 gcc  -o "PrimerPaso"  ./puntero.o   
 Finished building target: PrimerPaso
  
+
+01:01:53 Build Finished (took 1s.41ms)
+
